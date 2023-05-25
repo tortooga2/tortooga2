@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tortooga2
+- 👋 Hi, I’m Chase Nagle
 - 🎓 I am currently majoring in Computer Science
 - 🌱 I’m currently learning C++ at DVC. 
 - 💞️ I hope to one day be able to work on all kinds of things
