@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chase Nagle
 - 🎓 I am currently majoring in Computer Science
-- 🌱 I’m currently learning C++ at DVC. 
-- 💞️ I hope to one day be able to work on all kinds of things
+- 🌱 I’m currently studying at DVC. 
 - 📫 How to reach me: Chasen2021@gmail.com
 
 <!---
