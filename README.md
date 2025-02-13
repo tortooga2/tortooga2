@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chase Nagle
 - 🎓 I am currently majoring in Computer Science
-//I’m currently studying at DVC.
-- 🌱 Now at UC Merced!
+- 🌱 Student at UC Merced!
 - 📫 How to reach me: Chasen2021@gmail.com
 
 <!---
